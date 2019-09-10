@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "325813348388",
+    "firebase_url": "https://react-native-bcc9d.firebaseio.com",
+    "project_id": "react-native-bcc9d",
+    "storage_bucket": "react-native-bcc9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325813348388:android:57ad5d3612cbed31f610b1",
+        "android_client_info": {
+          "package_name": "com.djamware.reactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325813348388-18kp9bqrbb77p4nfovh77hrmuuikom3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5JZHH_kplKD8d5MxyhMONPp7r3n-iqJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325813348388-18kp9bqrbb77p4nfovh77hrmuuikom3p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "325813348388-bm2pe0fjal8lc3cgj11jj8rblrf6g30m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.djamware.reactnative"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
