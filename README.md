@@ -1,6 +1,6 @@
 # React Native Firebase Push Notifications Tutorial (2025 Edition)
 
-Read more tutorial [here]().
+Read more tutorial [here](https://www.djamware.com/post/5d7773f05d8cdc057b603e65/react-native-firebase-push-notifications-tutorial-2025-edition).
 
 ## Step 1: Start Metro
 
